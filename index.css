@@ -1,0 +1,83 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.phone{
+	width: 320px;
+	height: 600px;
+	border: 2px #000 solid;
+	margin:30px auto;/*设置居中*/
+	border-radius: 50px;
+    background-image:url("http://pic34.photophoto.cn/20150325/0017030556556939_b.jpg"); 
+    
+}
+.top{
+	width: 240px;
+	height: 40px;
+	margin: 10px auto;
+}
+.screen{
+	width: 300px;
+	height: 460px;
+	font-size:40px;
+	color: white;
+	margin: 0 auto;
+	
+	background-size:100% auto;
+    background-image:url("baby7.jpg"); 
+    /*background-size:320px 600px;*/
+    
+}
+.home{
+	width: 60px;
+	height: 60px;
+    margin: 10px auto;
+    border: 2px #000 solid;
+    border-radius: 50%;/*显示圆角的.50%会把正方形变圆*/
+}
+.top1{
+	width: 14px;
+	height: 14px;
+	border: 1px #000 solid;
+    border-radius:50%;
+    float:left;
+    margin-left:30px;
+    margin-top:5px;
+}
+.top2{width: 100px;
+	height: 7px;
+	border: 1px #000 solid;
+    border-radius:13px;
+    float:left;
+    margin:8px;
+
+}
+
+.top3{
+	width: 10px;
+	height: 4px;
+	border: 1px #000 solid;
+    border-radius:5px;
+    float:left;
+    margin-top: 10px;
+}
+.top4{
+	width: 8px;
+	height: 8px;
+	border: 1px #000 solid;
+    border-radius:13px;
+    float:left;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+.father{
+	width: 1400px;
+	height: 680px;
+	background-color: green;
+	margin: 0 auto;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: 1400px 680px;
+
+    background-image:url("http://scimg.158pic.com/allimg/150814/14-150Q41IFN44.jpg");
+}
